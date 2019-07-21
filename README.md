@@ -9,8 +9,4 @@ See Krzysztof's paper "Time and Structure in Xeq" in the doc folder for details.
 
 The code compiles, and works for a large part, but some functions are 'experimental' and somewhat schetchy. The challenge is to identify those and make them work. One already fixed is reading midi files. Another is xeq_polyparse, which can crash with certain argument values.
 
-The effort to fix the known issues is documented in the <a href="../wiki">wiki</a>.
-
-
-
-
+The effort to fix the known issues will be hopefuly documented in the <a href="https://github.com/pd-externals/xeq/wiki">wiki</a>.
